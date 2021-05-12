@@ -1,0 +1,8 @@
+{
+  "name": "intro-to-typescript",
+  "version": "1.0.0",
+  "description": "A simple repo to learn TS",
+  "main": "index.js",
+  "author": "jrodriguediazz <jorgedejesusrodriguezdiaz@gmail.com>",
+  "license": "MIT"
+}
