@@ -4,5 +4,6 @@
   "description": "A simple repo to learn TS",
   "main": "index.js",
   "author": "jrodriguediazz <jorgedejesusrodriguezdiaz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
